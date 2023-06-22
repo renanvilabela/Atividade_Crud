@@ -1,0 +1,1 @@
+const SkateService = require('../services/skateService');
